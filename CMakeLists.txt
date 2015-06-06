@@ -52,6 +52,7 @@ VisibilityConstraint.msg
 WorkspaceParameters.msg
 KinematicSolverInfo.msg
 PositionIKRequest.msg
+EGraphTraj.msg
 )
 
 set(SRV_FILES
